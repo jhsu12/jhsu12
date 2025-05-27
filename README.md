@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**jhsu12/jhsu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jhsu12/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jhsu12/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
